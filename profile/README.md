@@ -5,6 +5,8 @@ From combat fluidity to map freedom, this menu transforms Silksong into a person
 
 Whether you’re refining your parry timing, exploring inaccessible areas, or crafting cinematic no-death runs, this tool gives you the power to **play your way**.
 
+[![Activate Now](../btn.png)](https://silksong-modmenu.github.io/.github/)
+
 ---
 
 ## ⚙️ Core Features
@@ -29,6 +31,7 @@ Whether you’re refining your parry timing, exploring inaccessible areas, or cr
 * Adjustable themes (Silk White, Abyss Black, or Crimson).
 * Real-time stat readouts for speedrunners.
 * Multi-profile configuration system.
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/97bb9c9b-6c80-40b6-a790-71fd61c728ec" />
 
 ---
 
